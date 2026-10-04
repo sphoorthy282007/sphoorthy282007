@@ -32,6 +32,5 @@ I'm a Computer Science Engineering student interested in:
 
 ## 📫 Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/sphoorthy-knc-59b177325/)  
-💻 [GitHub](https://github.com/sphoorthy282007)  
+💼 [LinkedIn](https://www.linkedin.com/in/sphoorthy-knc-59b177325/)   
 📧 2420030510cse@gmail.com
